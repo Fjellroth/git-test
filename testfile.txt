@@ -1,1 +1,2 @@
+I am using vim to change the text in this file.
 Test file for git
